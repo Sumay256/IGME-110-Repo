@@ -2,9 +2,9 @@
 
 ## Level_2 header
 
--red
--green
--blue
+- red
+- green
+- blue
 
 
 *Italic text*
