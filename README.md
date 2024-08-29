@@ -13,4 +13,4 @@
 *Italic text*
 
 
-![an image](md-image/cassie.jpg)
+![an image](md-images/cassie.jpg)
