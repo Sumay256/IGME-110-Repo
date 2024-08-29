@@ -11,3 +11,6 @@
 3. benny
 [Rit](https://www.rit.edu/sistraining/student-training-materials)   
 *Italic text*
+
+
+![an image](md-image/cassie.jpg)
